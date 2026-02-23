@@ -103,15 +103,3 @@ python segmentation_main.py
 Developed by [Aleeza Rizwan] – [linkedin.com/in/aleeza-rizwan/]
 
 ---
-
-### One final tip for GitHub:
-
-Make sure you create a `requirements.txt` file as well! It should contain:
-
-```text
-opencv-python
-numpy
-pandas
-matplotlib
-
-```
