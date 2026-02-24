@@ -86,7 +86,7 @@ The pipeline is divided into three critical phases:
 
 ## 👤 Author
 
-**[Aleeza Rizwan]** Digital Image Processing
+**[Aleeza Rizwan](linkedin.com/in/aleeza-rizwan/)** Digital Image Processing
 
 ---
 
