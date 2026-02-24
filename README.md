@@ -32,11 +32,12 @@ The solution utilizes **Connected Component Labeling (CCL)** and intelligent **V
 ## 📂 Project Structure
 
 ```bash
-├── Drishti-GS/          # Dataset (Images and Ground Truth Masks)
-├── output_samples/      # Generated segmentation results
-├── segmentation_main.py # Core logic and experiment runner
-├── README.md            # Project documentation
-└── requirements.txt     # List of dependencies
+├── Drishti-GS/              # Dataset (Images and Ground Truth Masks)
+├── image_segmentation.pdf   # Project report
+├── output_samples/          # Generated segmentation results
+├── segmentation_main.py     # Core logic and experiment runner
+├── README.md                # Project documentation
+└── requirements.txt         # List of dependencies
 
 ```
 
